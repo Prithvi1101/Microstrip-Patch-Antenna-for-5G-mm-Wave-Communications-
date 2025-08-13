@@ -27,3 +27,13 @@ RT/duroid 5880 laminates have a low dielectric constant (Dk) and low dielectric 
 - **Feedline Width (wf):** 0.3 mm  
 - **Feedline Length (lf):** 1.4685 mm  
 - Microstrip feedline dimensions optimized to achieve a **50 Ω** characteristic impedance for straightforward impedance matching and minimal reflections.
+
+---
+
+## S-Parameters
+
+<p align="center">
+  <img src="images/s_parameters.png" alt="S-Parameters [Magnitude in dB]" width="600">
+</p>
+
+<p align="center"><b>Figure:</b> S-Parameters [Magnitude in dB].</p>
