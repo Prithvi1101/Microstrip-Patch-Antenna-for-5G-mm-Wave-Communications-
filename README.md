@@ -1,4 +1,4 @@
-##Design Specification 
+#Design Specification 
 #Operating Frequency: 
 • Central Frequency: 28 GHz 
 • Frequency Range: 20 GHz (Min Frequency) to 40 GHz (Max Frequency) 
