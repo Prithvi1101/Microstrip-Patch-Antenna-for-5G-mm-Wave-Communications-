@@ -33,7 +33,7 @@ RT/duroid 5880 laminates have a low dielectric constant (Dk) and low dielectric 
 ## S-Parameters
 
 <p align="center">
-  <img src="images/s_parameters.png" alt="S-Parameters [Magnitude in dB]" width="600">
+  <img src="images/s_parameters.PNG" alt="S-Parameters [Magnitude in dB]" width="600">
 </p>
 
 <p align="center"><b>Figure:</b> S-Parameters [Magnitude in dB].</p>
